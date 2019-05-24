@@ -1,2 +1,2 @@
 # downloadCRL
-Download CRL from LDAP
+Download ARL or CRL from LDAP
